@@ -1,0 +1,11 @@
+
+.navbar-purple, .bg-purple {
+    background-color: #3c096c !important; /* Purple color */
+  }
+  
+  .navbar-purple .navbar-brand,
+  .navbar-purple .nav-link,
+  .navbar-purple {
+    color: white !important; /* White text for Purple Mode */
+  }
+  
